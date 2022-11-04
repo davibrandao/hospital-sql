@@ -1,2 +1,2 @@
 # sql-senac
-Atividades com projetos reais com SQL
+Exercises with reals projects with SQL language
